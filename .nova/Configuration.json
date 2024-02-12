@@ -1,0 +1,23 @@
+{
+  "eablokker.tabsSidebar.config.collapsedFolders" : [
+
+  ],
+  "eablokker.tabsSidebar.config.customKindGroupsOrder" : [
+    "go",
+    "markdown",
+    "plaintext",
+    "yaml"
+  ],
+  "eablokker.tabsSidebar.config.customTabOrder" : [
+    "file:\/\/\/Users\/brendanthompson\/Development\/personal\/instancescheduler\/patchwindow\/patchwindow.go",
+    "file:\/\/\/Users\/brendanthompson\/Development\/personal\/instancescheduler\/azure\/azure.go",
+    "file:\/\/\/Users\/brendanthompson\/Development\/personal\/instancescheduler\/README.md",
+    "file:\/\/\/Users\/brendanthompson\/Development\/personal\/instancescheduler\/azure\/tags.go",
+    "file:\/\/\/Users\/brendanthompson\/Development\/personal\/instancescheduler\/.gitignore",
+    "file:\/\/\/Users\/brendanthompson\/Development\/personal\/instancescheduler\/main.go",
+    "file:\/\/\/Users\/brendanthompson\/Development\/personal\/instancescheduler\/patchwindow\/timeslice.go",
+    "file:\/\/\/Users\/brendanthompson\/Development\/personal\/instancescheduler\/schedule\/schedule.go",
+    "file:\/\/\/Users\/brendanthompson\/Development\/personal\/instancescheduler\/tags.yaml",
+    "file:\/\/\/Users\/brendanthompson\/Development\/personal\/instancescheduler\/patchwindow\/period.go"
+  ]
+}
