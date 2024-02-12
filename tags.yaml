@@ -1,0 +1,3 @@
+enabled: AutoShutdownEnabled
+schedule: AutoShutdownScheduleV2
+patchWindow: PatchWindowV2

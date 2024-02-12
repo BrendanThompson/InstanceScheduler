@@ -1,0 +1,9 @@
+{
+  "actions" : {
+    "run" : {
+      "enabled" : true,
+      "script" : "go run main.go -debug"
+    }
+  },
+  "openLogOnRun" : "start"
+}
