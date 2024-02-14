@@ -4,20 +4,18 @@
   ],
   "eablokker.tabsSidebar.config.customKindGroupsOrder" : [
     "go",
-    "markdown",
-    "plaintext",
-    "yaml"
+    "markdown"
   ],
   "eablokker.tabsSidebar.config.customTabOrder" : [
-    "file:\/\/\/Users\/brendanthompson\/Development\/personal\/instancescheduler\/patchwindow\/patchwindow.go",
-    "file:\/\/\/Users\/brendanthompson\/Development\/personal\/instancescheduler\/azure\/azure.go",
-    "file:\/\/\/Users\/brendanthompson\/Development\/personal\/instancescheduler\/README.md",
-    "file:\/\/\/Users\/brendanthompson\/Development\/personal\/instancescheduler\/azure\/tags.go",
-    "file:\/\/\/Users\/brendanthompson\/Development\/personal\/instancescheduler\/.gitignore",
+    "file:\/\/\/Users\/brendanthompson\/Development\/personal\/instancescheduler\/internal\/schedule\/schedule_test.go",
+    "file:\/\/\/Users\/brendanthompson\/Development\/personal\/instancescheduler\/internal\/schedule\/schedule.go",
     "file:\/\/\/Users\/brendanthompson\/Development\/personal\/instancescheduler\/main.go",
-    "file:\/\/\/Users\/brendanthompson\/Development\/personal\/instancescheduler\/patchwindow\/timeslice.go",
-    "file:\/\/\/Users\/brendanthompson\/Development\/personal\/instancescheduler\/schedule\/schedule.go",
-    "file:\/\/\/Users\/brendanthompson\/Development\/personal\/instancescheduler\/tags.yaml",
-    "file:\/\/\/Users\/brendanthompson\/Development\/personal\/instancescheduler\/patchwindow\/period.go"
+    "file:\/\/\/Users\/brendanthompson\/Development\/personal\/instancescheduler\/LICENSE.md",
+    "file:\/\/\/Users\/brendanthompson\/Development\/personal\/instancescheduler\/internal\/azure\/azure.go",
+    "file:\/\/\/Users\/brendanthompson\/Development\/personal\/instancescheduler\/internal\/azure\/powerstate.go",
+    "file:\/\/\/Users\/brendanthompson\/Development\/personal\/instancescheduler\/internal\/azure\/tags.go",
+    "file:\/\/\/Users\/brendanthompson\/Development\/personal\/instancescheduler\/internal\/patchwindow\/patch_window.go",
+    "file:\/\/\/Users\/brendanthompson\/Development\/personal\/instancescheduler\/internal\/patchwindow\/period.go",
+    "file:\/\/\/Users\/brendanthompson\/Development\/personal\/instancescheduler\/internal\/patchwindow\/timeslice.go"
   ]
 }
